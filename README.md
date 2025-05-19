@@ -15,3 +15,9 @@ Podaci su preuzeti sa **data.gov.rs**
 📌 **Emisije CO₂ pokazuju trend stabilizacije**, ali bez značajnog pada do 2033.  
 📌 **Industrijski centri poput Obrenovca i Kostolca** imaju najveće emisije.  
 📌 **ARIMA(1,0,1) model se pokazao boljim od Prophet modela** za dugoročnu prognozu.  
+
+## Korišćenje
+Možete preuzeti notebook, pokrenuti ga i prilagoditi analizu prema potrebama.
+
+**Autor**: [Bojan Radoš]
+
